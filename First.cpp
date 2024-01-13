@@ -1,3 +1,6 @@
+// Deals with Inheritance and Polymorphism
+// 1. If the base class had a constructor, create one for Derived class
+
 #include <iostream>
 
 using namespace std;
